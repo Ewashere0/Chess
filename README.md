@@ -1,2 +1,2 @@
 # Chess
-Chess game in java
+Chess game in java using javaFX
